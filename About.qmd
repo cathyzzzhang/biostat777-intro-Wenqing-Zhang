@@ -1,0 +1,23 @@
+---
+title: "About"
+format: html
+---
+![](farm.jpg){width=30%}
+![](scene.jpg){width=30%}
+
+Hi, my name is Wenqing, though you can also call me Cathy—it sounds like “happy” (开心) in Mandarin. I was born in Xi’an, China, and have lived in several places around the world, including Singapore, Maine, and now Maryland, where I’m pursuing a Master’s in Biostatistics.
+
+My academic journey has been diverse, weaving together life sciences, social sciences, and quantitative analysis. During my undergraduate studies, I gained hands-on experience with environmental data as well as clinical trial management and clinical data analysis, which eventually sparks my current interest in advancing statistical methods to better interpret trial data.
+
+Outside of academics, my experiences living in different countries and regions have also inspired me to make sustainable choices that support a healthier planet. I enjoy volunteering at day camps to teach K-12 students about environmental awareness and am committed to continually learning ways to preserve and embrace the beauty of nature.
+
+### Education
+- **Johns Hopkins Bloomberg School of Public Health**  
+  Baltimore, MD  
+  *ScM in Biostatistics*  
+  August 2024 - May 2026  
+
+- **Johns Hopkins University**  
+  Baltimore, MD  
+  *B.S. in Public Health Studies and Environmental Science*  
+  August 2020 - May 2024  

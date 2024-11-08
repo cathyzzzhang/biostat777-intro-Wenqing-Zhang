@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+bibliography: reference.bib
+
+website:
+  title: "Wenqing(Cathy) Zhang"
+  navbar:
+    left:
+      - href: Home.qmd
+        text: Home
+      - href: About.qmd
+        text: About
+      - href: ExampleAnalysis.qmd
+        text: Example Analysis
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+
+
+
